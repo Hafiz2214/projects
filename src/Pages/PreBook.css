@@ -1,0 +1,37 @@
+
+.App {
+    text-align: center;
+  }
+  
+  .prebook {
+    margin: 20px;
+  }
+  
+  .prebook form {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+  }
+  
+  .prebook form div {
+    margin-bottom: 10px;
+  }
+  
+  .prebook form label {
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+  }
+  
+  .prebook form input {
+    padding: 5px;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  .prebook form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
